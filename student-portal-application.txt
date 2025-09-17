@@ -1,5 +1,3 @@
 Name     :Bindu
 Course   :BCA
-SUC code :2350250162
-College name:Aditya degree college, Tadepalligudem
-Branch :Computer Applications
+FEEDback :Good
